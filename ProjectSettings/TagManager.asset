@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerDeath
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Blocks
+  - Stalactite
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 255604009
+    locked: 0
+  - name: FishBackOfWater
+    uniqueID: 2457182157
+    locked: 0
+  - name: Water
+    uniqueID: 1404685571
+    locked: 0
+  - name: FishFrontOfWater
+    uniqueID: 2066604959
+    locked: 0
+  - name: Player
+    uniqueID: 4245854575
+    locked: 0
+  - name: Player Object
+    uniqueID: 2244790207
+    locked: 0
+  - name: Water Drop
+    uniqueID: 3199718629
+    locked: 0
